@@ -1,7 +1,7 @@
 Back end basé sur spring Boot 
 
-Api Rest fonctionne avec les methodes : POST / GET / PUT / DELETE
+Api Rest fonctionne avec les methodes : POST / GET / PUT / DELETE  OK 
 
-ApiRest tésté avec Potman  
+ApiRest tésté avec Potman  OK
 
-Gestion des produits avex une base de donné  MYSQL 
+Gestion des produits avex une base de donné  MYSQL OK 
